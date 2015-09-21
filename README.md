@@ -1,3 +1,4 @@
+<<<<<<< HEAD
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
@@ -24,3 +25,7 @@ The Cloud9 IDE team
 
 Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
 To watch some training videos, visit http://www.youtube.com/user/c9ide
+=======
+# responsive-website
+Class workspace for 1stwebdesigner class - Flat Responsive Web Design HTML / CSS
+>>>>>>> 54ec2889638a731fa360c94b534cc328c60c0dc7
